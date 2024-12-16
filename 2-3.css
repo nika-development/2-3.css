@@ -1,0 +1,188 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#first-div {
+    width: 1231px;
+    padding: 12px 24px;
+    background: #F7F4FF;
+    margin-left: auto;
+}
+
+
+
+#first {
+    margin-top: 25px;
+    text-decoration: none;
+    margin-left: 277px;
+    color: #323;
+    font-size: 18px;
+}
+
+#firsta {
+    color: #323;
+    font-size: 18px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+#second {
+    margin-left: 20px;
+    color: #8E26C0;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#seconda {
+    margin-left: 20px;
+    color: #323;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#navigation {
+    margin-top: 6px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#first-img {
+    vertical-align: middle;
+}
+
+#contact {
+    padding: 4px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    padding: 8px 16px;
+    color: #8E26C0;
+    margin-left: 277px;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+#maindiv {
+    display: inline-block;
+    width: 610px;
+    margin-left: 350px;
+    margin-top: 142px;
+    vertical-align: middle;
+}
+
+#secondmaindiv {
+    display: inline-block;
+    width: 644px;
+    vertical-align: middle;
+
+
+}
+
+#firstp {
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#mirta {
+    font-size: 20px;
+    margin-top: 16px;
+    text-align: center;
+    color: #535862;
+    font-style: normal;
+    text-align: left;
+    margin-left: 45px;
+}
+
+#ul {
+    font-size: 24px;
+    margin-top: 16px;
+    margin-left: 22px;
+}
+
+#ul {
+    margin-top: 16px;
+}
+
+#glo {
+    margin-top: 12px;
+}
+
+#fle {
+    margin-top: 12px;
+}
+
+#inn {
+    margin-top: 12px;
+}
+
+#reco {
+    margin-top: 12px;
+}
+
+#megu {
+    margin-left: 350px;
+
+    width: 1221px;
+}
+
+#durgali {
+    text-align: center width: 905px;
+    margin-top: 83px;
+    margin-left: 141px;
+}
+
+#secondp {
+    font-size: 56px;
+    width: 905px;
+}
+
+#gur {
+    margin-top: 18px;
+    text-align: center;
+    font-size: 20px;
+    color: #535862;
+}
+
+#marta {
+    width: 1157px;
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+}
+
+#dugu {
+    padding: 20px;
+    border-radius: 16px;
+    background: #FFF;
+    width: 403px;
+    display: inline-block;
+}
+
+#first-png {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 16px;
+
+}
+
+#j {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 16px;
+
+}
+#dd {
+    vertical-align: middle;
+    display: inline-block;
+
+    
+}
+#sd {
+    display: inline-block;
+}
