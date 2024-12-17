@@ -150,6 +150,7 @@
 }
 
 #marta {
+    margin-top: 28px;
     width: 1157px;
     padding: 32px;
     border-radius: 16px;
@@ -157,6 +158,7 @@
 }
 
 #dugu {
+    height: 434px;
     padding: 20px;
     border-radius: 16px;
     background: #FFF;
@@ -172,18 +174,300 @@
 
 }
 
-#j {
+#adress {
     display: inline-block;
     vertical-align: middle;
     margin-left: 16px;
 
 }
-#dd {
+
+#add{
+    font-size: 20px;
+    color: #000;
+}
+
+#glion {
     vertical-align: middle;
     display: inline-block;
-
+    color: #6d5f8b;
     
 }
-#sd {
+#diego {
     display: inline-block;
+}
+
+#mail {
+    margin-top: 25px;
+    margin-left: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#png {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#ball {
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 16px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#diana {
+    color: #6d5f8b;
+}
+
+#quru {
+    margin-top: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 16px;
+}
+
+#kukaracha {
+    margin-top: 25px;
+    margin-left: 16px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#pho {
+    font-size: 20px;
+    color: #000;
+}
+
+#number {
+    color: #6d5f8b;
+}
+
+#mesagge {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 24px;
+
+}
+
+#send {
+    font-size: 32px;
+    color: #1B003D;
+}
+
+#name {
+    color: #1B003D;
+    display: block;
+    font-size: 14px;
+}
+
+#you {
+    height: 48px;
+    margin-top: 8px;
+    background: #F7F4FF;
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 662px;
+}
+
+#some {
+    margin-top: 24px;
+    color: #1B003D;
+    display: block;
+    font-size: 14px;
+}
+
+#nova {
+    height: 48px;
+    margin-top: 8px;
+    background: #F7F4FF;
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 662px;
+}
+
+#god {
+    margin-top: 24px;
+    background: #F7F4FF;
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+    padding: 12px 16px;
+    width: 662px;
+    height: 122px;
+}
+#but {
+  
+  text-align: right;
+}
+
+#sent {
+    margin-top: 24px;
+    color: #FFF;
+    width: 140px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background: #8E26C0;
+    border: 0px;
+}
+
+#firstfooter {
+    height: 480px;
+    display: block;
+    background-color: #53389E;
+    margin-top: 163px;
+}
+#kit {
+    width: 187px;
+    display: inline-block;
+    margin-left: 352px;
+    padding: 64px 48px;
+}
+
+#pro {
+    color: #d6bbfb;
+    width: 176px;
+}
+
+#kardi {
+    width: 176px;
+}
+
+.paraghraps {
+    font-size: 16px;
+    color: #FFF;
+    margin-top: 12px;
+}
+
+
+
+#suqticia {
+    background: #747474; 
+    border-radius: 6px;
+    border: 1px solid #747474;
+}
+
+#solu {
+    width: auto;
+    display: inline-block;
+}
+
+#situacia { 
+    margin-left: 32px;
+    color: #d6bbfb;
+
+}
+#comp {
+    margin-left: 32px;
+    display: inline-block;
+}
+
+.lutecia {
+    margin-left: 32px;
+    margin-top: 12px;
+    color: white;
+    width: 176px;
+}
+
+#pari {
+    color: #d6bbfb;
+}
+
+
+#isi {
+    width: 176px;
+    margin-left: 32px;
+    display: inline-block;
+}
+
+.nikora {
+    margin-top: 12px;
+    color: white;
+}
+
+#lay {
+    margin-left: 32px;
+    display: inline-block;
+    width: 176px;
+}
+
+#out {
+    margin-left: 32px;
+    color: #d6bbfb;
+}
+
+.strech {
+    color: white;
+    margin-top: 12px;
+    margin-left: 32px;
+}
+
+#export {
+    margin-left: 32px;
+    display: inline-block;
+    width: 176px;
+}
+
+.live {
+    color: white;
+    margin-top: 12px;
+    margin-left: 32px;
+}
+
+#all {
+    margin-left: 32px;
+    color: #d6bbfb;
+}
+
+#hov {
+    display: inline-block;
+    width: 176px;
+}
+
+#dom {
+    color: #d6bbfb;
+    margin-left: 32px;
+}
+
+.search {
+    margin-top: 12px;
+    color: white;
+    margin-left: 32px;
+}
+
+#history {
+    display: inline-block;
+    margin-top: 64px;
+    width: 1248px;
+    margin-left: 395px;
+    border-top: 1px solid #7F56D9;
+}
+
+#csl {
+    display: inline-block;
+    margin-top: 32px;
+}
+
+#mark { 
+    display: inline-block;
+    width: 70%;
+}
+
+#sorry {
+    display: inline-block;
+    margin-bottom: 3px;
+}
+
+#onemore { 
+    text-align: right;
+    display: inline-block;
+    width: 293px;
+    color: #D6BBFB;
+}
+
+#finishhh {
+    text-align: right;
 }
